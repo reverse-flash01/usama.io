@@ -1,0 +1,158 @@
+body {
+  text-align: center;
+  margin: 0px;
+  font-family: 'Merriweather',
+    serif;
+}
+
+p {
+  margin: 0;
+  margin-bottom: 0;
+  line-height: 2;
+
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento',
+    cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 150px;
+  font-family: 'Sacramento',
+    cursive;
+}
+
+h2 {
+  font-family: 'Montserrat',
+    sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+}
+
+h3 {
+  font-family: 'Montserrat',
+    sans-serif;
+  color: #11999E;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  height: 10%;
+  padding: 50px 0 20px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 400px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+}
+
+#contact-message
+{
+  margin: 40px 0 40px 0;
+}
+
+hr {
+  border-style: dotted none none none;
+  border-width: 5px;
+  color: gainsboro;
+  width: 30%;
+}
+
+.code-image {
+  width: 25%;
+  /* height: 25%; */
+  float: left;
+  margin-right: 30px;
+}
+
+.code-art {
+  width: 25%;
+  /* height: 25%; */
+  float: right;
+  margin-left: 30px;
+
+}
+
+a {
+  color: #11999E;
+  text-decoration: none;
+    font-family: 'Montserrat',sans-serif;
+    /* margin:10px 20px; */
+
+}
+
+#programmer {
+  font-weight: normal;
+}
+
+.skill-row {
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+}
+
+.contact-me {
+  line-height: 2;
+
+}
+
+.footer-link {
+  margin-right:50px;
+}
+
+#bio {
+  width: 30%;
+  margin: 0 auto 40px auto;
+
+}
+.btn {
+  background-color: #11999E;
+  border-radius: 28px;
+  border: 1px solid #11999E;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: Arial;
+  font-size: 20px;
+  padding: 16px 31px;
+  text-decoration: none;
+  text-shadow: 0px 1px 0px #2f6627;
+}
+
+.btn:hover {
+  background-color: #44c767;
+}
+
+.btn:active {
+  position: relative;
+  top: 1px;
+}
+#copyright
+{
+  margin-top:20px;
+  color: white;
+  font-size: 0.75rem;
+  padding-top: 0.5rem;
+}
+
+a:hover
+{
+  color: white;
+}
